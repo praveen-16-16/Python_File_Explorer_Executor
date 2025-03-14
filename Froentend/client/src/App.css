@@ -1,0 +1,31 @@
+.file{
+    background-color: white;
+    width: 20%;
+    height: 15%;
+    margin-top: 7px;
+    cursor: pointer;
+    padding: 5px;
+
+}
+.file:hover{
+background-color: aliceblue;
+}
+
+.container_folder{
+    margin-left: 10px;
+    padding-top: 20px;
+   
+}
+.output{
+    margin-left: 35%;
+    margin-top: -10%;
+}
+pre {
+    background-color: #222;
+    color: #0f0;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+    text-align: left;
+    width: 40%;
+  }

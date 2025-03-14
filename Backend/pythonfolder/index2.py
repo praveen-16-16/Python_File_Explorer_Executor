@@ -1,1 +1,5 @@
-print("This is script2 output.")
+print("Hello from script2!")
+n = 4
+
+for i in range(n):
+    print("* "* n)
